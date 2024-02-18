@@ -49,6 +49,10 @@ project-root/
 ![image](https://github.com/ramashish07/Assignment_Mercel_Science/assets/91429764/e23fc26e-af52-4256-b7ec-538014b077cb)
 - Responsive : Utilised tailwind css breakpoints for making  it completely responsive.
 - DarkMode/LightMode
+   ![image](https://github.com/ramashish07/Assignment_Merkle_Science/assets/91429764/107287bf-988c-4434-9e21-1a79648f7634)
+   ![image](https://github.com/ramashish07/Assignment_Merkle_Science/assets/91429764/f1442281-2554-477c-8a3a-6ba41b7ca382)
+
+
 - Added basic unit test using jest
 - Notification using Toast
      Used toast for showing notification when the api loads holidays
