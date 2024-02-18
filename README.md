@@ -10,6 +10,35 @@
 - Typescript
 
 ### Folder Strucure
+```
+project-root/
+├── public/
+├── src/
+    ├── assets/
+    ├── components/
+         ├── CalenderDays.tsx
+         ├── SelectCountry.tsx
+         ├── SelectMonth.tsx
+         ├── SelectYear.tsx
+         ├── UnitCellCalender.tsx
+├── constants/
+    ├── countries.js
+├── hooks/
+    ├── useCalender.tsx  
+├── tests/
+    ├── daysInMonth.tsx
+├── utils/
+    ├── calenderForMonth.tsx
+    ├── daysInParticularMonth.tsx
+└── app.css
+└── app.tsx
+└── index.css
+└── index.tsx
+└── tailwind.config.js
+└── tsconfig.json
+
+    
+```
 ### Features 
 
 - Holiday in Calender : 
