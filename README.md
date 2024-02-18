@@ -1,4 +1,4 @@
-# Mercel Science Frontend Assignment
+# Merkle Science Frontend Assignment
 
 
 
